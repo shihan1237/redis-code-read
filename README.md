@@ -1,4 +1,4 @@
-# redis-code-read1
+# redis-code-read
 redis代码精读1——基础架构和网络模型
 
 redis全称为Remote Dictionary Server，即"远程字典服务"，是一个基于BSD
